@@ -1,15 +1,12 @@
 ![Header](https://github.com/JunNealy/JunNealy/blob/main/github-header-image(1).png)
 
 <div id="badges" align="center">
-  <a href="your-linkedin-URL">
+  <a href="www.linkedin.com/in/junypyrnealy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
-<h1 align="center">👋 Hi, I’m Junypyr</h1>
+
 
 
 
