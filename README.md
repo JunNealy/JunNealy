@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on front-end web design
 - 📫 Email me at Junypyr@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunNealy)](https://github.com/JunNealy/github-readme-stats_icons=true&theme=radical)
-![Junypyr's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunNealy&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunNealy)](https://github.com/JunNealy/github-readme-stats&theme=radical)
+
 <!---
 TNealy/TNealy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
