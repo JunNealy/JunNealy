@@ -1,3 +1,5 @@
+
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -7,7 +9,10 @@
   </a>
 </div>
 
-- 👋 Hi, I’m @JunNealy
+<h1 align="center">👋 Hi, I’m Junypyr</h1>
+
+<hr/>
+
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning React, Express, Node.js, and MongoDB
 - 💞️ I’m looking to collaborate on front-end web design
