@@ -13,7 +13,7 @@
 - 💞️ I’m looking to collaborate on front-end web design
 - 📫 Email me at Junypyr@gmail.com
 
-  <hr/>
+<hr/>
 
 <h2>Languages and Tools:</h2>
 <div>
