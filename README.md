@@ -1,7 +1,7 @@
 ![Header](https://github.com/JunNealy/JunNealy/blob/main/github-header-image(1).png)
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/junypyrnealy">
+  <a href="http://www.linkedin.com/in/junypyrnealy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -14,7 +14,7 @@
 - 📖 I’m currently learning React, Typescript, and C++
 - 🌴 In my free time I love keeping up to date on the latest technologies,  reading classic literature, and running tabletop games
 - 💞️ I’m looking to collaborate on front-end web design
-- 📄 Check out my <a href="www.junypyr.ca">portfolio</a>
+- 📄 Check out my <a href="http://www.junypyr.ca">portfolio</a>
 - 📫 Email me at Junypyr@gmail.com
 
 
