@@ -1,4 +1,4 @@
-
+![Header](https://github.com/JunNealy/JunNealy/blob/main/github-header-image(1).png)
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -11,7 +11,7 @@
 
 <h1 align="center">👋 Hi, I’m Junypyr</h1>
 
-<hr/>
+
 
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning React, Express, Node.js, and MongoDB
