@@ -7,15 +7,16 @@
 </div>
 
 
+<h2>About Me:</h2>
+<p>Welcome to my GitHub profile! I'm a passionate Full Stack Developer who is always looking for something new to learn</p>
 
-
-
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning React, Express, Node.js, and MongoDB
-- 💞️ I’m looking to collaborate on front-end web design
+- 💻 Currently, I'm working as a freelance web developer
+- 📖 I’m currently learning React, Typescript, and C++
+- 🌴 In my free time I love keeping up to date on the latest technologies,  reading classic literature, and running tabletop games
+- 💞️ I’m looking to collaborate on front-end web design 
 - 📫 Email me at Junypyr@gmail.com
 
-<hr/>
+
 
 <h2>Languages and Tools:</h2>
 <div>
@@ -34,6 +35,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JunNealy&theme=radical)](https://github.com/JunNealy/github-readme-stats)
 
+
+### 😉: Programming Joke :
+<!-- Markdown -->
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!---
 TNealy/TNealy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
