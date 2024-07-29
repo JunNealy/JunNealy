@@ -14,7 +14,7 @@
 - 📖 I’m currently learning React, Typescript, and C++
 - 🌴 In my free time I love keeping up to date on the latest technologies,  reading classic literature, and running tabletop games
 - 💞️ I’m looking to collaborate on front-end web design
-- 📄 Check out my <a href="http://www.junypyr.ca">portfolio</a>
+- 📄 Check out my <a href="https://www.junypyr.ca">portfolio</a>
 - 📫 Email me at Junypyr@gmail.com
 
 
