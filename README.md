@@ -12,6 +12,7 @@
 
 - 💻 Currently, I'm working as a freelance web developer
 - 📖 I’m currently learning React, Typescript, and C#
+- 🎮I'm developing my own game engine built in Typescript
 - 🌴 In my free time I love keeping up to date on the latest technologies,  reading classic literature, and running tabletop games
 - 💞️ I’m looking to collaborate on front-end web design
 - 📄 Check out my <a href="https://junypyr.ca/">portfolio</a>
